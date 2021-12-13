@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on different projects related to c language.
 - 📫 How to reach me: 
 My insta id-https://www.instagram.com/dhruvchauhan64/
-My Github id-github.com/cdhruv12
+My Github id- github.com/cdhruv12
 
 
 
