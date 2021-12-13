@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Dhruv
-- 👀 I’m interested in coding.
+- 👀 I’m interested in coding and I am totally a beginner.
 - 🌱 I’m currently learning c language.
 - 💞️ I’m looking to collaborate on different projects related to c language.
 - 📫 How to reach me: 
-my insta id-https://www.instagram.com/dhruvchauhan64/
+My insta id-https://www.instagram.com/dhruvchauhan64/
+My Github id-github.com/cdhruv12
+
 
 
 <!---
