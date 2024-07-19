@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhruv
-- 👀 I’m interested in coding and I am totally a beginner.
-- 🌱 I’m currently learning c language.
-- 💞️ I’m looking to collaborate on different projects related to c language.
+- 👀 I’m interested in coding and Cloud.
+- 🌱 I’m currently learning java language.
+- 💞️ I’m looking to collaborate on different projects related to c, c++ ,java and python language.
 - 📫 How to reach me: 
 My insta id-https://www.instagram.com/dhruvchauhan64/
 My Github id- github.com/cdhruv12
